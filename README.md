@@ -1,2 +1,2 @@
 # PIEN-API
-The backend off PIEN
+The backend of PIEN
